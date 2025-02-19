@@ -31,7 +31,11 @@ The script will display which ports are open or closed.
 # Example Output
 
 Sent SYN to 10.1.12.173:80
+
 Port 80 is OPEN
+
 Sent SYN to 10.1.12.173:443
+
 Port 443 is OPEN
+
 Open ports: [80, 443]
