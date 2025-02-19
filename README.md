@@ -29,8 +29,7 @@ View the results:
 The script will display which ports are open or closed.
 
 # Example Output
-pgsql
-Copy
+
 Sent SYN to 10.1.12.173:80
 Port 80 is OPEN
 Sent SYN to 10.1.12.173:443
